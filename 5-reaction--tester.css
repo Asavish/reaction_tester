@@ -1,0 +1,24 @@
+  #shape{
+            
+            width :150px;
+            height: 150px;
+          background-color: rgb(255,0,0);
+            display:none;
+            position: relative;
+            
+            
+        }
+        #gameRule{
+            color:#21e2a8;
+            font-size: 30px;
+            
+        }
+    
+        #title{
+            color:#ee6cbe;
+            font-size:400%;
+            font-style: oblique;
+            font-weight: 400;
+            font-family: sans-serif;
+            }
+           
